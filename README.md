@@ -1,6 +1,6 @@
 # Dash Run: A 2D Character Controller Odyssey 🚀
 
-![Dash Run Banner](https://path-to-your-game-banner-image.jpg)
+<img src="https://github.com/iydebu/Space-Invader-3000/blob/main/Snapshot.PNG" alt="Gameplay Screenshot" height="600"/>
 
 Welcome to the official repository of **Dash Run**, a thrilling 2D game that serves as an insightful journey into the world of 2D Character Controllers in Unity!
 
